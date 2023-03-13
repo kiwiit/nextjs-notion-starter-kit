@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'KK's Blog',
+  name: 'KK 的空间',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'KK',
 
