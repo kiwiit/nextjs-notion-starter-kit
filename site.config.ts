@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'KK 的空间',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'KK的空间',
+  domain: 'chamblog.vercel.app',
   author: 'KK',
 
   // open graph metadata (optional)
   description: 'KK的小网站，可以来看看。',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: '',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
